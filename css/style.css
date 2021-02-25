@@ -1,0 +1,73 @@
+body{
+     font-family: 'Akaya Telivigala', cursive;;
+}
+.banner-container{
+     background-color: lightslategray;
+}
+.banner-column{
+     background-color: rgb(85, 111, 136);
+}
+
+.navbar-container{
+     top: 0;
+background-color: rgb(40, 75, 121);
+font-size: x-large;
+position: sticky;
+z-index: 1;
+}
+.about-container{
+     background-color: lightsteelblue;
+     font-size: larger;
+}
+.education-container{ 
+     background-color: rgb(138, 175, 190);
+}
+
+.bg-redtype{
+     background-color:rgb(85, 111, 136);
+}
+.bg-redtype:hover{
+     color:rgb(176, 208, 238)!important;
+}
+.redtype-color{
+     color: rgb(19, 78, 85) ;
+
+}
+.circle{
+     background-color: rgb(19, 78, 85);
+     width:150px ;
+     height: 150px;
+     border-radius: 50%;
+     
+}
+.project-container{
+     background-color: royalblue;
+}
+
+.form-container{
+      background-color: rgb(75, 134, 83);
+}
+.bummy box{
+     font-size: 72px;
+}
+.inner-form{
+     background-color: rgb(147, 209, 178);
+}
+.footer{
+     background-color: rgb(12, 130, 185);
+}
+.circle1{
+      width:60px;
+      height: 60px;
+      border-radius: 50%;
+      display: inline-block;
+      background-color: white;
+      font-size: 40px;
+      text-align: center;
+      color: #0C82B9;
+}
+.circle1:hover{
+     
+     background-color: rgb(40, 75, 121);
+
+}
